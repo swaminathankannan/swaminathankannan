@@ -12,10 +12,10 @@ I'm an **Angular MEAN Stack Developer** at **Niiv Software Company**, passionate
 
 ### 🏆 **Skills & Tech Stack**
 
-  **Languages** : Java(Basic), TypeScript, JavaScript<br>
-  **Frameworks**: ExpressJs, Angular<br>
-  **Databases** : MySql(Basic), Mongo(Basic)<br>
-  **DevOps**    : Docker, Git, GiHub, Postman, Vercel, Gitlab, Continuous Integration and Continuous Deployment (CI/CD)<br>
+ - **Languages** : Java(Basic), TypeScript, JavaScript<br>
+ - **Frameworks**: ExpressJs, Angular<br>
+ - **Databases** : MySql(Basic), Mongo(Basic)<br>
+ - **DevOps**    : Docker, Git, GiHub, Postman, Vercel, Gitlab, Continuous Integration and Continuous Deployment (CI/CD)<br>
 
 ### 🔹 **What I Do:**
 
