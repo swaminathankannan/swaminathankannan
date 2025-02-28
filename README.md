@@ -2,10 +2,10 @@
 
 ## 🚀 **About Me**  
 
-I'm an **Angular MEAN Stack Developer** at **Niiv Software Company**, passionate about building **scalable, high-performance, and user-centric web applications**. With expertise in **Angular, JavaScript, TypeScript, and Microservices Architecture**, I specialize in developing dynamic front-end applications.  
+I'm an **Angular MEAN Stack Developer** at **Niiv Software Company**, passionate about building **scalable, high-performance, and user-centric web applications**. With expertise in **Angular, JavaScript, TypeScript, and Microservices Architecture**, I specialize in developing dynamic front-end applications with seamless UI/UX experiences.  
 
 ### 🔹 **What I Do:**
-  
+
 - 🌐 **Frontend Engineering** – Crafting **modern, responsive, and interactive UIs** with **Angular** & **TypeScript**  
 - ⚙️ **Microservices Architecture** – Building **scalable & modular** web applications with **RESTful APIs**  
 - 📈 **Performance Optimization** – Enhancing user experience through **efficient, optimized, and secure code**  
@@ -31,7 +31,8 @@ I'm an **Angular MEAN Stack Developer** at **Niiv Software Company**, passionate
 
 📧 **Email:** [swaminathankannank@gmail.com](mailto:swaminathankannank@gmail.com)  
 🌐 **Portfolio:** [swaminathan-portfolio.vercel.app](https://swaminathan-portfolio.vercel.app/)  
-💼 **LinkedIn:** [[linkedin.com/in/swaminathan](https://www.linkedin.com/in/swaminathan-kannan/)](#) _(Add your LinkedIn URL)_  
+💼 **LinkedIn:** [linkedin.com/in/swaminathan](#) _(Add your LinkedIn URL)_  
+🐦 **Twitter/X:** [twitter.com/swami_dev](#) _(If applicable)_  
 
 😄 **Pronouns:** He/Him  
 
@@ -45,7 +46,7 @@ It was followed by the **first antivirus**, **"Reaper"**, designed to remove Cre
 
 ---
 
-## 🚀 **My Tech Stack:**  
+## 🚀 **My Tech Stack:**
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" height="50" alt="Angular">
@@ -55,27 +56,30 @@ It was followed by the **first antivirus**, **"Reaper"**, designed to remove Cre
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="50" alt="MongoDB">
 </p>
 
-**Frontend:**  
+### **Frontend:**
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+### **Backend & Database:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+</p>
 
-**Backend & Database:**  
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-
-**DevOps & Tools:**  
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+### **DevOps & Tools:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
+</p>
 
 ---
 
