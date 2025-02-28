@@ -5,16 +5,17 @@
 I'm an **Angular MEAN Stack Developer** at **Niiv Software Company**, passionate about building **scalable, high-performance, and user-centric web applications**. With expertise in **Angular, JavaScript, TypeScript, and Microservices Architecture**, I specialize in developing dynamic front-end applications. 
 
 ### 💡 **What I'm Working On:**
-  🎨 **Portfolio Project** – Full-stack app using Angular (frontend) & Mongo,NodeJs,ExpressJs,Vercel (backend).
+
+  🎨 **Portfolio Project** – Full-stack app using Angular (frontend) & Mongo,NodeJs,ExpressJs,Vercel (backend).<br>
   🛠️ **Building & Selling** Software/APIs – Exploring ways to generate passive income through digital products.
-     Profile views
+     Profile views<br>
 
 ### 🏆 **Skills & Tech Stack**
 
-**Languages** : Java(Basic), TypeScript, JavaScript<br>
-**Frameworks**: ExpressJs, Angular<br>
-**Databases** : MySql(Basic), Mongo(Basic)
-**DevOps**    : Docker, Git, GiHub, Postman, Vercel, Gitlab, Continuous Integration and Continuous Deployment (CI/CD)    
+  **Languages** : Java(Basic), TypeScript, JavaScript<br>
+  **Frameworks**: ExpressJs, Angular<br>
+  **Databases** : MySql(Basic), Mongo(Basic)<br>
+  **DevOps**    : Docker, Git, GiHub, Postman, Vercel, Gitlab, Continuous Integration and Continuous Deployment (CI/CD)<br>
 
 ### 🔹 **What I Do:**
 
