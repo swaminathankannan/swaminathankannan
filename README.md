@@ -2,7 +2,7 @@
 
 ## 🚀 **About Me**  
 
-I'm an **Angular MEAN Stack Developer** at **Niiv Software Company**, passionate about building **scalable, high-performance, and user-centric web applications**. With expertise in **Angular, JavaScript, TypeScript, and Microservices Architecture**, I specialize in developing dynamic front-end applications with seamless UI/UX experiences.  
+I'm an **Angular MEAN Stack Developer** at **Niiv Software Company**, passionate about building **scalable, high-performance, and user-centric web applications**. With expertise in **Angular, JavaScript, TypeScript, and Microservices Architecture**, I specialize in developing dynamic front-end applications.  
 
 ### 🔹 **What I Do:**
   
@@ -31,8 +31,7 @@ I'm an **Angular MEAN Stack Developer** at **Niiv Software Company**, passionate
 
 📧 **Email:** [swaminathankannank@gmail.com](mailto:swaminathankannank@gmail.com)  
 🌐 **Portfolio:** [swaminathan-portfolio.vercel.app](https://swaminathan-portfolio.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/swaminathan](#) _(Add your LinkedIn URL)_  
-🐦 **Twitter/X:** [twitter.com/swami_dev](#) _(If applicable)_  
+💼 **LinkedIn:** [[linkedin.com/in/swaminathan](https://www.linkedin.com/in/swaminathan-kannan/)](#) _(Add your LinkedIn URL)_  
 
 😄 **Pronouns:** He/Him  
 
@@ -47,6 +46,14 @@ It was followed by the **first antivirus**, **"Reaper"**, designed to remove Cre
 ---
 
 ## 🚀 **My Tech Stack:**  
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" height="50" alt="Angular">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" height="50" alt="TypeScript">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="50" alt="JavaScript">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="50" alt="Node.js">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="50" alt="MongoDB">
+</p>
 
 **Frontend:**  
 
@@ -65,10 +72,10 @@ It was followed by the **first antivirus**, **"Reaper"**, designed to remove Cre
 **DevOps & Tools:**  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitLab](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
 
 ---
 
