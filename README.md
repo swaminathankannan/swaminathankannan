@@ -1,55 +1,89 @@
-# 👋 Hi, I'm Swaminathan (aka Sandy)  
+# **👋 Hi, I'm Swaminathan (aka Sandy)**  
 
-🚀 About Me
+## 🚀 **About Me**  
 
-I'm an Angular MEAN Stack Developer at Niiv Software Company, passionate about building scalable and high-performance software solutions. With a strong foundation in Angular, JavaScript, and microservices architecture, I specialize in developing dynamic and efficient front-end applications.
+I'm an **Angular MEAN Stack Developer** at **Niiv Software Company**, passionate about building **scalable, high-performance, and user-centric web applications**. With expertise in **Angular, JavaScript, TypeScript, and Microservices Architecture**, I specialize in developing dynamic front-end applications with seamless UI/UX experiences.  
 
-🔹 What I Do:
+### 🔹 **What I Do:**
+  
+- 🌐 **Frontend Engineering** – Crafting **modern, responsive, and interactive UIs** with **Angular** & **TypeScript**  
+- ⚙️ **Microservices Architecture** – Building **scalable & modular** web applications with **RESTful APIs**  
+- 📈 **Performance Optimization** – Enhancing user experience through **efficient, optimized, and secure code**  
 
-🌐 Frontend Development – Crafting responsive and interactive UIs with Angular and TypeScript
-⚙️ Microservices Architecture – Designing scalable and modular web applications
-📈 Performance Optimization – Ensuring user experiences through optimized code
-
-💡 Constantly learning, innovating, and exploring new technologies to stay ahead in the ever-evolving tech world!
-
-👀 **Passionate About:**  
-- Building and deploying scalable web applications  
-- Exploring cutting-edge tech like MEAN stack  
-
-🌱 **Currently Learning:**  
-- **MEAN Stack** (MongoDB, Express.js, Angular, Node.js)  
-
-📫 **Contact Me:**  
-- 📧 Email: [swaminathankannank@gmail.com](mailto:swaminathankannank@gmail.com)  
-- 📧 Portfolio: [https://swaminathan-portfolio.vercel.app/]
-
-😄 **Pronouns:**  
-- He/Him  
-
-⚡ **Fun Fact:**  
-- The very first computer virus, called **"Creeper"**, wasn’t malicious—it was more like a prank! It displayed the message:  
-  *“I’m the Creeper, catch me if you can!”*  
-  It was followed by the first antivirus, **"Reaper,"** which was designed to remove Creeper. So technically, the first virus and antivirus were part of the same story! 😄  
+💡 _Constantly learning, innovating, and exploring **cutting-edge technologies** to stay ahead in the evolving tech landscape!_  
 
 ---
 
-## 🚀 My Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)   
+## 👀 **Passionate About:**
+
+🚀 **Building & deploying** scalable web applications  
+🔍 **Exploring modern front-end frameworks** & the **MEAN stack**  
+🛁 **API integrations & microservices development**  
+
+## 🌱 **Currently Learning:**
+
+🔥 **Full-stack development** with the **MEAN Stack (MongoDB, Express.js, Angular, Node.js)**  
+💡 Advanced **JavaScript & TypeScript patterns** for **scalable architectures**  
+
+---
+
+## 📫 **Connect with Me:**
+
+📧 **Email:** [swaminathankannank@gmail.com](mailto:swaminathankannank@gmail.com)  
+🌐 **Portfolio:** [swaminathan-portfolio.vercel.app](https://swaminathan-portfolio.vercel.app/)  
+💼 **LinkedIn:** [linkedin.com/in/swaminathan](#) _(Add your LinkedIn URL)_  
+🐦 **Twitter/X:** [twitter.com/swami_dev](#) _(If applicable)_  
+
+😄 **Pronouns:** He/Him  
+
+---
+
+## ⚡ **Fun Fact:**
+
+💡 The first-ever computer virus, **"Creeper"**, wasn’t malicious—it was a fun prank! It displayed the message:  
+_"I’m the Creeper, catch me if you can!"_ 😆  
+It was followed by the **first antivirus**, **"Reaper"**, designed to remove Creeper—making them part of the same history!  
+
+---
+
+## 🚀 **My Tech Stack:**  
+
+**Frontend:**  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+
+**Backend & Database:**  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+
+**DevOps & Tools:**  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitLab](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 **GitHub Stats:**  
+
 ![Swaminathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaminathankannan&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swaminathankannan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swaminathankannan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
-## 💡 Quote of the Day:
-*"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+## 💡 **Quote of the Day:**  
+> **_"Code is like humor. When you have to explain it, it’s bad."_** – Cory House  
 
 ---
 
-✨ _Feel free to connect with me, share ideas, or just say hi!_
+🌟 _Feel free to **connect, collaborate, or just say hi!**_ 🚀💻  
+
+---
