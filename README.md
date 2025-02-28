@@ -1,5 +1,15 @@
 # 👋 Hi, I'm Swaminathan (aka Sandy)  
 
+🚀 About Me
+I'm an Angular MEAN Stack Developer at Niiv Software Company, passionate about building scalable and high-performance software solutions. With a strong foundation in Angular, JavaScript, and microservices architecture, I specialize in developing dynamic and efficient front-end applications.
+
+🔹 What I Do:
+🌐 Frontend Development – Crafting responsive and interactive UIs with Angular and TypeScript
+⚙️ Microservices Architecture – Designing scalable and modular web applications
+📈 Performance Optimization – Ensuring user experiences through optimized code
+
+💡 Constantly learning, innovating, and exploring new technologies to stay ahead in the ever-evolving tech world!
+
 👀 **Passionate About:**  
 - Building and deploying scalable web applications  
 - Exploring cutting-edge tech like MEAN stack  
