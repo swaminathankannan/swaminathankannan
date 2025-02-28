@@ -44,8 +44,7 @@ I'm an **Angular MEAN Stack Developer** at **Niiv Software Company**, passionate
 
 📧 **Email:** [swaminathankannank@gmail.com](mailto:swaminathankannank@gmail.com)  
 🌐 **Portfolio:** [swaminathan-portfolio.vercel.app](https://swaminathan-portfolio.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/swaminathan](#) _(Add your LinkedIn URL)_  
-🐦 **Twitter/X:** [twitter.com/swami_dev](#) _(If applicable)_  
+💼 **LinkedIn:** [linkedin.com/in/swaminathan](#)
 
 😄 **Pronouns:** He/Him  
 
